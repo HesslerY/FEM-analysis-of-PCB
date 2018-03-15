@@ -1,2 +1,2 @@
 # FEM-analysis-of-PCB
-Computer assignment in the finite element method, Lund University
+The given problem consists of a two dimensional printed circuit board (PCB) and concerns a surface mounted resistor on a printed circuit board together with connecting solder. The task at hand can be divided into two parts where the first part is to determine the temperature distribution with respect to time and also to find the stationary temperature distribution of the PCB. The second part concerns finding the von Mises stress field and corresponding displacement field due to thermal expansion. Both parts are solved using the finite element method.
